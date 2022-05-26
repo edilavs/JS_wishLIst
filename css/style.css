@@ -1,0 +1,22 @@
+img{
+    max-height: 200px;
+    height: 200px !important;
+}
+.wish-box{
+    position: relative;
+}
+.wish-box span{
+    position: absolute;
+    right: -5px;
+    top: -11px;
+}
+.wish-box i{
+    margin-left: 4px;
+    margin-top: 4px;
+    font-size: 25px;
+    color: red;
+}
+/* #loadBtn{
+    margin-top: 10px;
+    margin: 0 auto;
+} */
